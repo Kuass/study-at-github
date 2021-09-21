@@ -18,6 +18,12 @@ Github로 프로젝트 관리하기
 ### [Integerous/goQuality-dev-contents](https://github.com/Integerous/goQuality-dev-contents)
 고퀄리티 개발 컨텐츠 모음
 
+### [gyoogle/tech-interview-for-developer](https://github.com/gyoogle/tech-interview-for-developer)
+신입 개발자 전공 지식 & 기술 면접 백과사전
+
+### [WooVictory/Ready-For-Tech-Interview](https://github.com/WooVictory/Ready-For-Tech-Interview)
+신입 개발자로서 준비를 하기 위해 지식을 정리하는 공간
+
 ## 인터뷰/취업
 ### [JaeYeopHan/Interview_Question_for_Beginner](https://github.com/JaeYeopHan/Interview_Question_for_Beginner)
 예비 개발자들 또는 개발자들의 기술 면접 준비를 위한 자료를 정리해놓은 저장소입니다. 
